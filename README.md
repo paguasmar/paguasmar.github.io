@@ -4,15 +4,15 @@
 
 [pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
 
-Passionate Data Engineer and Backend developer. I like to have a broad collection of skills. From developing data pipelines, machine learning models and backend applications written in Python, Scala or any other language, to developing a cloud infrastructure solution. An enthusiastic agile player with good communication skills. Looking for taking on new challenges and learning new technologies.
+Passionate Data Engineer and Data Scientist. I like to have a broad collection of skills. From developing data pipelines, machine learning models and backend applications written in Python, Scala or any other language, to developing a cloud infrastructure solution. An enthusiastic agile player with good communication skills. Looking for taking on new challenges and learning new technologies.
 
 “What I don’t know, I will learn”
 
 ## Highlights
 - Certification on Scala [![udemy](imgs/udemy.png)](https://www.udemy.com/certificate/UC-8cc582fc-eebb-4273-be2a-b3c09259d1a4/)
-- Python, Scala, JavaScript, SQL, Java
+- Python, Scala, SQL, terraform, JavaScript, Java
 - AWS EMR, S3 and many more
-- Spark, Airflow, Docker, GitHub
+- Spark, Airflow, Snowflake, Docker, GitHub
 - D3.js, NodeJS, Pytorch, scikit-learn
 - MLFlow, Tableau, Plotly
 - multiple caerifications from DeepLearning.AI Deep Learning specialization
