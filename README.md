@@ -15,7 +15,7 @@ Passionate Data Engineer and Data Scientist. I like to have a broad collection o
 - Spark, Airflow, Snowflake, Docker, GitHub
 - D3.js, NodeJS, Pytorch, scikit-learn
 - MLFlow, Tableau, Plotly
-- multiple caerifications from DeepLearning.AI Deep Learning specialization
+- multiple caerifications from DeepLearning.AI Deep Learning specialization [![coursera](imgs/coursera.png)](https://www.coursera.org/account/accomplishments/certificate/43APRWUXPZPD)
 
 ## Testimonials
 
