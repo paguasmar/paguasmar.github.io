@@ -4,7 +4,25 @@
 
 [pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
 
-Passionate Data Engineer and Data Scientist. I like to have a broad collection of skills. From developing data pipelines, machine learning models and backend applications written in Python, Scala or any other language, to developing a cloud infrastructure solution. An enthusiastic agile player with good communication skills. Looking for taking on new challenges and learning new technologies.
+I am a recent master's graduate in Computer Engineering from Instituto Superior Técnico at the University of Lisbon. However, while studying, I gained 2+ years of experience working in IT at companies such as Vodafone, where I participated in data projects.
+
+I began working at the age of 16 as a full-stack developer at a startup company for a period of six months.
+
+When I was 17, I created a freelance full-stack project where I implemented a fully functional desktop movie theater [![yt](imgs/youtube.png)](https://www.youtube.com/watch?v=9v0_ginYi9g) and conducted interviews with the movie theater owner.
+
+At the age of 18, I participated in a team programming contest.
+
+At 19, I worked as a counter person for a non-profit organization and worked as coordinator for the student commission.
+
+When I turned 20, I completed a summer internship at Vodafone, where I built their next-generation micro-services architecture that is still in use today.
+
+At 21, I worked for over a year as a Data Scientist at a multinational American company. In this role, I served as the lead developer, designing and implementing a new deep learning recommendation system/model for the company.
+
+Now, at 23, I am working at another multinational American company where I develop and automate multiple pipelines in Scala, resulting in an annual cost savings of 100k by eliminating manual processes.
+
+I have a passion for technology, learning new things, and running. Last year, I completed two mini marathons. I am also skilled in climbing, swimming, cycling, canoeing, playing tennis, practicing martial arts, scouting, and cooking.
+
+I am currently seeking new opportunities, preferably in the field of Data or Software Engineering, where I believe I can provide the most value. However, I am also open to other opportunities.
 
 “What I don’t know, I will learn”
 
