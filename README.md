@@ -20,7 +20,7 @@ At 21, I worked for over a year as a Data Scientist at a multinational American 
 
 Now, at 23, I am working at another multinational American company where I develop and automate multiple pipelines in Scala, resulting in an annual cost savings of 100k by eliminating manual processes.
 
-I have a passion for technology, learning new things, and running. Last year, I completed two mini marathons. I am also skilled in climbing, swimming, cycling, canoeing, playing tennis, practicing martial arts, scouting, and cooking.
+I have a passion for technology, learning new things, and running. At 22 until the present, I joined a running team with workouts every week and completed multiple mini marathons. I am also skilled in climbing, swimming, cycling, canoeing and playing tennis.
 
 I am currently seeking new opportunities, preferably in the field of Data or Software Engineering, where I believe I can provide the most value. However, I am also open to other opportunities.
 
