@@ -1,4 +1,4 @@
-# Pedro Águas Marques Resume ![ist](imgs/ist.png) ![vodafone](imgs/vodafone.png) ![aws ug](imgs/aws_ug.png)
+# Pedro Águas Marques Resume ![ist](imgs/ist.png "Instituto Superior Tecnico") ![vodafone](imgs/vodafone.png "Vodafone") ![aws ug](imgs/aws_ug.png "AWS User Group Member")
 ![collage](imgs/join_pedro.jpeg)
 ## Summary
 
