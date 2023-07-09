@@ -1,4 +1,4 @@
-# Pedro Águas Marques Resume
+# Pedro Águas Marques Resume ![ist](imgs/ist.png) ![vodafone](imgs/vodafone.png) ![aws ug](imgs/aws_ug.png)
 ![collage](imgs/join_pedro.jpeg)
 ## Summary
 
@@ -33,7 +33,7 @@ I am currently seeking new opportunities, preferably in the field of Data or Sof
 - Spark, Airflow, Snowflake, Docker, GitHub
 - D3.js, NodeJS, Pytorch, scikit-learn
 - MLFlow, Tableau, Plotly
-- multiple caerifications from DeepLearning.AI Deep Learning specialization [![coursera](imgs/coursera.png)](https://www.coursera.org/account/accomplishments/certificate/43APRWUXPZPD)
+- multiple certifications from DeepLearning.AI Deep Learning specialization [![coursera](imgs/coursera.png)](https://www.coursera.org/account/accomplishments/certificate/43APRWUXPZPD)
 
 ## Testimonials
 
@@ -46,6 +46,7 @@ _During the time I worked with Pedro he was involved in 2 projects, one for auto
 
 ### Data Engineer - [https://www.carpe.io/](https://www.carpe.io/), PT
 #### November 2022 - Present
+Carpe Data leverages social media, online content, and other forms of alternative data to gain deeper insight of the risk of insuring companies and individuals
 - Automated multiple Data pipelines with over 50TB and over 70 steps with Airflow ran in parallel which saved the company money on queueing each step manually on AWS
 - Built new data pipeline steps and respective integration and unit tests in Scala to integrate new data sources into a 40TB pipeline
 
@@ -53,10 +54,10 @@ _During the time I worked with Pedro he was involved in 2 projects, one for auto
 
 ### Data Scientist - [https://gympass.com/](https://gympass.com/), PT
 #### August 2021 - November 2022
-Prototyped deep learning recommendation system for Gympass, using the highly popular unsupervised machine learning GNN architecture, to replace the current extremely limited 3-rd party recommendation system
+Prototyped geospatial deep learning recommendation system for Gympass, using the highly popular unsupervised machine learning GNN architecture, to replace the current extremely limited 3-rd party recommendation system
 - Built, trained and evaluated unsupervised machine learning algorithm on AWS (Graph Neural Network)
 - Tracked model experiments metrics on MLFlow
-- Extracted, cleaned, scaled and encoded production data for the system with a PySpark data pipeline (NLP)
+- Extracted, cleaned, scaled and encoded geospatial production data for the system with a PySpark data pipeline (NLP)
 - Analysed data on a 170TB SQL PrestoDB database to make data-driven decision-making
 - Built and deployed docker image server
 
@@ -72,4 +73,3 @@ Model Information Systems with (ER) Diagram using Oracle SQL Developer Data Mode
 - Two weeks sprints
 - Sprint reviews with stakeholders at the end of the sprint
 - Retrospective after each sprint
-
