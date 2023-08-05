@@ -46,20 +46,21 @@ _During the time I worked with Pedro he was involved in 2 projects, one for auto
 
 ### Data Engineer - [https://www.carpe.io/](https://www.carpe.io/), PT
 #### November 2022 - Present
-Carpe Data leverages social media, online content, and other forms of alternative data to gain deeper insight of the risk of insuring companies and individuals
-- Automated multiple Data pipelines with over 50TB and over 70 steps with Airflow ran in parallel which saved the company money on queueing each step manually on AWS
-- Built new data pipeline steps and respective integration and unit tests in Scala to integrate new data sources into a 40TB pipeline
+Carpe Data leverages social media, online content, and other forms of alternative data to gain a deeper insight into the risk of insuring companies and individuals.
+- Automated multiple data pipelines with over 50TB of data and over 70 steps using Airflow, which ran in parallel. This automation saved the company money, as manual queuing of each step on AWS was no longer necessary.
+- Architected and implemented a scalable 10TB data pipeline orchestration system.
+- Built new data pipeline steps and respective integration and unit tests in Scala to integrate new data sources into a 40TB pipeline.
 
     Airflow, Python, AWS EMR and Github.
 
 ### Data Scientist - [https://gympass.com/](https://gympass.com/), PT
 #### August 2021 - November 2022
-Prototyped geospatial deep learning recommendation system for Gympass, using the highly popular unsupervised machine learning GNN architecture, to replace the current extremely limited 3-rd party recommendation system
-- Built, trained and evaluated unsupervised machine learning algorithm on AWS (Graph Neural Network)
-- Tracked model experiments metrics on MLFlow
-- Extracted, cleaned, scaled and encoded geospatial production data for the system with a PySpark data pipeline (NLP)
-- Analysed data on a 170TB SQL PrestoDB database to make data-driven decision-making
-- Built and deployed docker image server
+Prototyped a geospatial deep learning recommendation system for Gympass using an unsupervised machine learning GNN architecture, aiming to replace the current extremely limited 3rd-party recommendation system.
+- Built, trained, and evaluated an unsupervised machine learning algorithm (Graph Neural Network) on AWS.
+- Tracked model experiment metrics using MLFlow.
+- Extracted, cleaned, scaled, and encoded geospatial production data for the system with a PySpark data pipeline (NLP).
+- Analyzed data on a 170TB SQL PrestoDB database to facilitate data-driven decision-making.
+- Built and deployed a Docker image server.
 
 ### Backend Developer - [https://www.vodafone.com/](https://www.vodafone.com/), PT
 #### July 2020 - September 2020
