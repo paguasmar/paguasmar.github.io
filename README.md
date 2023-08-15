@@ -6,8 +6,6 @@
 
 Master's graduate in Computer Engineering from Instituto Superior Técnico, University of Lisbon. 2.9 years in IT in companies such as Vodafone, contributing to data projects.
 
-Honed coding skills via a high school vocational course at 14.
-
 Started working at 16, full-stack developer at a startup for 6 months.
 
 Freelance project at 17, built functional desktop movie theater [![yt](imgs/youtube.png)](https://www.youtube.com/watch?v=9v0_ginYi9g).
