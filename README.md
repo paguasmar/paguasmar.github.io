@@ -22,7 +22,9 @@ Data Scientist at 21, led deep learning recommendation system.
 
 Currently, I automate pipelines in Scala, saving 100k annually.
 
-Passion for tech, avid learner, accomplished in running, climbing, swimming, cycling, canoeing, and tennis.
+Passionate about technology, I'm an avid learner and an active member of the AWS User Group Lisbon.
+
+Beyond my tech interests, I excel in running, climbing, swimming, cycling, canoeing, and tennis.
 
 Seeking new opportunities in Data/Software Engineering, ready to learn and excel.
 
