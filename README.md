@@ -37,7 +37,14 @@ I am currently seeking new opportunities, preferably in the field of Data or Sof
 
 ## Testimonials
 
-### Kassem hussein
+### Pavel Calado
+![Director of Software Engineering at Gympass](imgs/pavel.png "Director of Software Engineering")
+
+_Pedro is a dedicated worker and an excellent team member, not only promptly carrying out the needed tasks as also actively cooperating with the remaining team members. In addition, Pedro has shown himself resourceful and inventive. These characteristics, together with a firm dedication to his work, allowed him to implement and test all suggestions, while also taking his own decisions and defending their outcomes. At a personal level, Pedro is a communicative person, who gets along very well with all those he has worked with. From what I could observe, he is well respected by both his colleagues and his teachers._
+
+[Full letter of recommendation from Pavel](docs/pedro_marques_2022.pdf)
+
+### Kassem Hussein
 ![Senior Data Scientist](imgs/kassem.png "Senior Data Scientist")
 
 _During the time I worked with Pedro he was involved in 2 projects, one for automating DAGs in a Machine learning model and another for exploring new techniques to detecting anomalies. In both projects Pedro performed with great excellence and minimal supervision._
