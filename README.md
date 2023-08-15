@@ -4,27 +4,27 @@
 
 [pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
 
-I am a recent master's graduate in Computer Engineering from Instituto Superior Técnico at the University of Lisbon. However, while studying, I gained 2+ years of experience working in IT at companies such as Vodafone, where I participated in data projects.
+Master's graduate in Computer Engineering from Instituto Superior Técnico, University of Lisbon. 2.9 years in IT in companies such as Vodafone, contributing to data projects.
 
-I began working at the age of 16 as a full-stack developer at a startup company for a period of six months.
+Honed coding skills via a high school vocational course at 14.
 
-When I was 17, I created a freelance full-stack project where I implemented a fully functional desktop movie theater [![yt](imgs/youtube.png)](https://www.youtube.com/watch?v=9v0_ginYi9g) and conducted interviews with the movie theater owner.
+Started working at 16, full-stack developer at a startup for 6 months.
 
-At the age of 18, I participated in a team programming contest.
+Freelance project at 17, built functional desktop movie theater [![yt](imgs/youtube.png)](https://www.youtube.com/watch?v=9v0_ginYi9g).
 
-At 19, I worked as a counter person for a non-profit organization and worked as coordinator for the student commission.
+Team programming contest at 18, showcasing collaboration.
 
-When I turned 20, I completed a summer internship at Vodafone, where I built their next-generation micro-services architecture that is still in use today.
+Versatile roles at 19, non-profit work, student commission coordinator.
 
-At 21, I worked for over a year as a Data Scientist at a multinational American company. In this role, I served as the lead developer, designing and implementing a new deep learning recommendation system/model for the company.
+Summer intern at 20, architected Vodafone's micro-services.
 
-Now, at 23, I am working at another multinational American company where I develop and automate multiple pipelines in Scala, resulting in an annual cost savings of 100k by eliminating manual processes.
+Data Scientist at 21, led deep learning recommendation system.
 
-I have a passion for technology, learning new things, and running. At 22 until the present, I joined a running team with workouts every week and completed multiple mini marathons. I am also skilled in climbing, swimming, cycling, canoeing and playing tennis.
+Currently, I automate pipelines in Scala, saving 100k annually.
 
-I am currently seeking new opportunities, preferably in the field of Data or Software Engineering, where I believe I can provide the most value. However, I am also open to other opportunities.
+Passion for tech, avid learner, accomplished in running, climbing, swimming, cycling, canoeing, and tennis.
 
-“What I don’t know, I will learn”
+Seeking new opportunities in Data/Software Engineering, ready to learn and excel.
 
 ## Highlights
 - Certification on Scala [![udemy](imgs/udemy.png)](https://www.udemy.com/certificate/UC-8cc582fc-eebb-4273-be2a-b3c09259d1a4/)
