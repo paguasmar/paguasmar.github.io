@@ -1,5 +1,4 @@
 # Pedro Águas Marques Resume ![ist](imgs/ist.png "Instituto Superior Tecnico") ![vodafone](imgs/vodafone.png "Vodafone") ![aws ug](imgs/aws_ug.png "AWS User Group Member")
-![collage](imgs/join_pedro.jpeg)
 ## Summary
 
 [pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
@@ -18,7 +17,7 @@ Summer intern at 20, architected Vodafone's micro-services.
 
 Data Scientist at 21, led deep learning recommendation system.
 
-Currently, I automate pipelines in Scala, saving 100k annually.
+Currently, I automate pipelines in Scala.
 
 Passionate about technology, I'm an avid learner and an active member of the AWS User Group Lisbon.
 
