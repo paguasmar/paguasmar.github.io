@@ -3,7 +3,7 @@
 
 [pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
 
-Master's graduate in Computer Engineering from Instituto Superior Técnico, University of Lisbon. 2.9 years in IT in companies such as Vodafone, contributing to data projects.
+Master's graduate in Computer Engineering from Instituto Superior Técnico, University of Lisbon. 3+ years in IT in companies such as Vodafone, contributing to data projects.
 
 Started working at 16, full-stack developer at a startup for 6 months.
 
