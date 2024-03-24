@@ -56,13 +56,6 @@ _Pedro is a dedicated worker and an excellent team member, not only promptly car
 
 _During the time I worked with Pedro he was involved in 2 projects, one for automating DAGs in a Machine learning model and another for exploring new techniques to detecting anomalies. In both projects Pedro performed with great excellence and minimal supervision._
 
-### André Souto
-![Professor, Department of Informatics](imgs/andre.png "Professor, Department of Informatics")
-
-_I immediately realized that Mr. Pedro was one of the topest students of his year._ [...] _I remember being impressed with Mr. Pedro dedication to improve week by week and learning from the suggestions of corrections that were pointed out._
-
-[Full letter of recommendation from Andre](docs/andre_recommendation.pdf)
-
 ## Experience
 
 ### Data Engineer - [https://www.carpe.io/](https://www.carpe.io/), PT
