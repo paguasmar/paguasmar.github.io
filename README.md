@@ -1,7 +1,7 @@
 # Pedro Águas Marques Resume ![ist](imgs/ist.png "Instituto Superior Tecnico") ![vodafone](imgs/vodafone.png "Vodafone") ![aws ug](imgs/aws_ug.png "AWS User Group Member")
 ## Summary
 
-[pedromar2010@gmail.com](mailto:pedromar2010@gmail.com)
+[pedromar2010+interview@gmail.com](mailto:pedromar2010+interview@gmail.com)
 
 Master's graduate in Computer Engineering from Instituto Superior Técnico, University of Lisbon. 3+ years in IT in companies such as Vodafone, contributing to data projects.
 
@@ -36,6 +36,14 @@ Seeking new opportunities in Data/Software Engineering, ready to learn and excel
 
 ## Testimonials
 
+### Pedro Luis
+![Tech Lead at Carpe Data](imgs/pedro_luis.png "Tech Lead Developer")
+
+_Pedro Aguas was one of the main points of contact for anything related to Airflow, he heavily impacted the automation and efficiency across products._
+
+_He always brought good ideas and genuinely cared about the job and colleges._
+_Additionally Pedro was incredibly deadline-conscious, ensuring that all tasks within his control were completed promptly and efficiently._
+
 ### Pavel Calado
 ![Director of Software Engineering at Gympass](imgs/pavel.png "Director of Software Engineering")
 
@@ -60,8 +68,8 @@ _I immediately realized that Mr. Pedro was one of the topest students of his yea
 ### Data Engineer - [https://www.carpe.io/](https://www.carpe.io/), PT
 #### November 2022 - Present
 Carpe Data leverages social media, online content, and other forms of alternative data to gain a deeper insight into the risk of insuring companies and individuals.
-- Automated multiple data pipelines with over 50TB of data and over 70 steps using Airflow, which ran in parallel. This automation saved the company money, as manual queuing of each step on AWS was no longer necessary.
-- Architected and implemented a scalable 10TB data pipeline orchestration system.
+- Automated multiple Spark data pipelines with over 50TB of data and over 70 steps using Airflow, which ran in parallel. This automation saved the company money, as manual queuing of each step on AWS was no longer necessary.
+- Architected and implemented a scalable 10TB Spark data pipeline orchestration system.
 - Built new data pipeline steps and respective integration and unit tests in Scala to integrate new data sources into a 40TB pipeline.
 
     Airflow, Python, AWS EMR and Github.
