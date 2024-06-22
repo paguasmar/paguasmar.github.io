@@ -28,8 +28,8 @@ Seeking new opportunities in Data/Software Engineering, ready to learn and excel
 ## Highlights
 - Certification on Scala [![udemy](imgs/udemy.png)](https://www.udemy.com/certificate/UC-8cc582fc-eebb-4273-be2a-b3c09259d1a4/)
 - Python, Scala, SQL, terraform, JavaScript, Java
-- AWS EMR, S3 and many more
-- Spark, Airflow, Snowflake, Docker, GitHub
+- AWS EMR, S3, ECS and many more
+- Spark, Airflow, Snowflake, Docker, Databricks, GitHub
 - D3.js, NodeJS, Pytorch, scikit-learn
 - MLFlow, Tableau, Plotly
 - multiple certifications from DeepLearning.AI Deep Learning specialization [![coursera](imgs/coursera.png)](https://www.coursera.org/account/accomplishments/certificate/43APRWUXPZPD)
