@@ -4,7 +4,7 @@ description: "Software and Data Engineer with experience at Tripadvisor, Vodafon
 url: "https://paguasmar.github.io"
 author: "Pedro Águas Marques"
 # SEO Related
-google-site-verification: 4KB1nFBrSptQlC4EWnHaIH36i9WEomkRBLrI7jFhJjE
+google_site_verification: Bn0CnJFS5PimjF6atbrryLrEqz6QvN8uzAtw2I1RSWI
 keywords: "Pedro Águas Marques, Resume, CV, Software Engineer, Data Engineer, Portugal, Tripadvisor"
 
 plugins:
@@ -23,5 +23,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-name: ""
-title: null
