@@ -1,5 +1,16 @@
+# Basic Site Settings
+title: "Pedro Águas Marques Resume"
+description: "Software and Data Engineer with experience at Tripadvisor, Vodafone, Gympass, and Carpe Data"
+url: "https://paguasmar.github.io"
+author: "Pedro Águas Marques"
+# SEO Related
+google-site-verification: 4KB1nFBrSptQlC4EWnHaIH36i9WEomkRBLrI7jFhJjE
+keywords: "Pedro Águas Marques, Resume, CV, Software Engineer, Data Engineer, Portugal, Tripadvisor"
+
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
