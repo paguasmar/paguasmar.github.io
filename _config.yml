@@ -14,11 +14,11 @@ navbar-links:
   Testimonials: "/#testimonials"
   Schedule  a Call: "https://calendly.com/pm19/30min"
 
-# Social Network Links
-social-network-links:
-  email: "pedromar2010+interview@gmail.com"
-  github: paguasmar
-  linkedin: paguasmar
+# Social Network Links - Too slow
+#social-network-links:
+#  email: "pedromar2010+interview@gmail.com"
+#  github: paguasmar
+#  linkedin: paguasmar
 
 # Site appearance
 navbar-col: "#EAEAEA"
