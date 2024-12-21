@@ -1,1 +1,16 @@
+# Jekyll build output
+_site/*
+
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# Environment variables
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+
 *.py
