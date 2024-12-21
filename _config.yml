@@ -37,6 +37,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-responsive-image
 relative_links:
   enabled: true
   collections: true
