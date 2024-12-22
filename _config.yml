@@ -8,6 +8,7 @@ avatar: "/imgs/logo.webp"
 
 # Navbar Links
 navbar-links:
+  Home: "/"
   About: "/about"
   Services: "/#services"
   Testimonials: "/#testimonials"
@@ -31,7 +32,7 @@ hover-col: "#0085A1"
 
 # SEO Related
 google_site_verification: Bn0CnJFS5PimjF6atbrryLrEqz6QvN8uzAtw2I1RSWI
-keywords: "Pedro Águas Marques,Data Consultancy,Data Pipeline Optimization,Advanced Analytics Solutions,Data Engineering Services,Machine Learning Integration,Cloud Data Solutions,ETL Process Automation,Data-Driven Culture Workshops,Business Intelligence Consulting,Custom Data Solutions"
+keywords: "Data Pyramid,Pedro Águas Marques,Data Consultancy,Data Pipeline Optimization,Advanced Analytics Solutions,Data Engineering Services,Machine Learning Integration,Cloud Data Solutions,ETL Process Automation,Data-Driven Culture Workshops,Business Intelligence Consulting,Custom Data Solutions"
 
 plugins:
   - jekyll-relative-links
