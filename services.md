@@ -1,16 +1,10 @@
----
-layout: home
-title: "Your Data, Our Expertise: Together We Innovate"
-subtitle: AWS, Machine Learning, PySpark
----
+## Data Consulting Services Offered
 
-## Data Consulting Services Offered {#services}
-
-### Our Core Service
+**Our Core Service**
 
 Are you maximizing the value of your data assets?
 
-We specialize in transforming data challenges into strategic advantages. Our expert team helps organizations navigate the complex data landscape, ensuring that technology, processes, and people work together effectively.
+At Data Pyramid, we specialize in transforming data challenges into strategic advantages. Our expert team helps organizations navigate the complex data landscape, ensuring that technology, processes, and people work together effectively.
 
 We offer a comprehensive suite of services designed to optimize data pipelines, implement advanced analytics, and foster a data-driven culture. Our solutions not only improve efficiency but also drive significant cost savings and innovation.
 Explore our core services below to discover how we can help you leverage your data for growth and success in 2024 and beyond.
@@ -48,26 +42,3 @@ We offer workshops and consulting services aimed at fostering a data-driven cult
 We create bespoke data tools tailored to your specific needs, focusing on user-friendly interfaces and seamless integration with existing systems. Our development process prioritizes collaboration with end-users to ensure high adoption rates and maximum utility.
 
 Ready to elevate your data strategy? Contact us today!
-
-[Contact Us](/contact){: .btn .btn-primary }
-
-## Testimonials {#testimonials}
-### Pedro Luis
-![Tech Lead at Carpe Data](imgs/pedro_luis.png "Tech Lead Developer")
-
-_Pedro Aguas was one of the main points of contact for anything related to Airflow, he heavily impacted the automation and efficiency across products._
-
-_He always brought good ideas and genuinely cared about the job and colleges._
-_Additionally Pedro was incredibly deadline-conscious, ensuring that all tasks within his control were completed promptly and efficiently._
-
-### Pavel Calado
-![Director of Software Engineering at Gympass](imgs/pavel.png "Director of Software Engineering")
-
-_Pedro is a dedicated worker and an excellent team member, not only promptly carrying out the needed tasks as also actively cooperating with the remaining team members. In addition, Pedro has shown himself resourceful and inventive. These characteristics, together with a firm dedication to his work, allowed him to implement and test all suggestions, while also taking his own decisions and defending their outcomes. At a personal level, Pedro is a communicative person, who gets along very well with all those he has worked with. From what I could observe, he is well respected by both his colleagues and his teachers._
-
-[Full letter of recommendation from Pavel](docs/pedro_marques_2022.pdf)
-
-### Kassem Hussein
-![Senior Data Scientist](imgs/kassem.png "Senior Data Scientist")
-
-_During the time I worked with Pedro he was involved in 2 projects, one for automating DAGs in a Machine learning model and another for exploring new techniques to detecting anomalies. In both projects Pedro performed with great excellence and minimal supervision._
