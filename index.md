@@ -2,7 +2,7 @@
 layout: home
 title: "Your Data, Our Expertise: Together We Innovate"
 subtitle: AWS, Machine Learning, PySpark
-share-title: Data Pyramid | Home
+share-title: Data Pyramid | AWS, Machine Learning, PySpark
 ---
 
 ## Data Consulting Services Offered {#services}
