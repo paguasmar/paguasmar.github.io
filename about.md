@@ -23,7 +23,7 @@ At [TripAdvisor](https://www.tripadvisor.com/) and [Carpe Data](https://www.carp
 
 #### Innovation Leadership
 - Pioneered ML-driven recommendation systems at [Gympass](https://gympass.com/)
-- Led cross-functional teams in delivering business-critical solutions
+- Led cross-functional projects in delivering business-critical solutions
 - Mentored analysts and engineers in data best practices
 
 ### Technical Excellence
