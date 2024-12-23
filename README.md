@@ -58,8 +58,12 @@ _During the time I worked with Pedro he was involved in 2 projects, one for auto
 
 ## Experience
 
+### Data Engineer II - [https://www.tripadvisor.com/](https://www.tripadvisor.com/), PT
+#### August 2024 - Present
+- Automated query processes saving 103 hours monthly with 1095% ROI
+
 ### Data Engineer - [https://www.carpe.io/](https://www.carpe.io/), PT
-#### November 2022 - Present
+#### November 2022 - April 2024
 Carpe Data leverages social media, online content, and other forms of alternative data to gain a deeper insight into the risk of insuring companies and individuals.
 - Automated multiple Spark data pipelines with over 50TB of data and over 70 steps using Airflow, which ran in parallel. This automation saved the company money, as manual queuing of each step on AWS was no longer necessary.
 - Architected and implemented a scalable 10TB Spark data pipeline orchestration system.
