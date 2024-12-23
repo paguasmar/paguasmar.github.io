@@ -9,7 +9,7 @@ share-title: Data Pyramid | About
 As a Data Engineering consultant, I help organizations optimize their data infrastructure and processes, delivering measurable business value through technical excellence.
 
 ### Impact Highlights
-- Reduced operational costs annually by $80,340 through pipeline automation
+- Reduced operational costs annually by $48,000 through pipeline automation
 - Improved analyst efficiency by 103 hours monthly (1095% ROI)
 - Architected scalable solutions handling 50TB+ data volumes
 
