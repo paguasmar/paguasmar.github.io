@@ -9,9 +9,9 @@ avatar: "/imgs/logo.webp"
 # Navbar Links
 navbar-links:
   Home: "/"
+  Case Studies: "/case-studies"
   About: "/about"
   Services: "/#services"
-  Testimonials: "/#testimonials"
   Contact Us: "/contact"
   Schedule a Call: "https://calendly.com/pm19/30min"
 

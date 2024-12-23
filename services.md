@@ -14,14 +14,6 @@ Feel free to [inquire about other services our team can offer to help maximize y
 ### Data Pipeline Optimization and Automation
 We specialize in transforming manual, time-consuming data processes into efficient, automated pipelines. Our expertise lies in designing and implementing scalable solutions that significantly reduce operational costs and free up valuable analyst time. We leverage technologies like AWS, Snowflake, and Airflow to create robust, cloud-native data architectures that ensure optimal performance and data quality.
 
-### Advanced Analytics and AI Integration
-Our team excels in developing cutting-edge analytics solutions and integrating AI into existing data workflows. We offer services including:
-- Predictive algorithm development for recommendation systems
-- Machine learning pipeline implementation and experiment tracking
-- NLP and BERT encoding for complex data analysis
-- Real-time data processing and analytics systems
-- Custom AI solutions tailored to your specific business needs
-
 ### Data Integration and Accessibility Solutions
 We tackle the challenge of data silos head-on, creating unified data environments that enable comprehensive analysis and decision-making. Our services include:
 - Design and implementation of ETL processes for large-scale data integration

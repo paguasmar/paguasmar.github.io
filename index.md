@@ -1,8 +1,8 @@
 ---
 layout: home
 title: "Your Data, Our Expertise: Together We Innovate"
-subtitle: AWS, Machine Learning, PySpark
-share-title: Data Pyramid | AWS, Machine Learning, PySpark
+subtitle: Airflow, PySpark, AWS
+share-title: Data Pyramid | Airflow, PySpark, AWS
 ---
 
 ## Data Consulting Services Offered {#services}
@@ -20,14 +20,6 @@ Feel free to [inquire about other services our team can offer to help maximize y
 
 ### Data Pipeline Optimization and Automation
 We specialize in transforming manual, time-consuming data processes into efficient, automated pipelines. Our expertise lies in designing and implementing scalable solutions that significantly reduce operational costs and free up valuable analyst time. We leverage technologies like AWS, Snowflake, and Airflow to create robust, cloud-native data architectures that ensure optimal performance and data quality.
-
-### Advanced Analytics and AI Integration
-Our team excels in developing cutting-edge analytics solutions and integrating AI into existing data workflows. We offer services including:
-- Predictive algorithm development for recommendation systems
-- Machine learning pipeline implementation and experiment tracking
-- NLP and BERT encoding for complex data analysis
-- Real-time data processing and analytics systems
-- Custom AI solutions tailored to your specific business needs
 
 ### Data Integration and Accessibility Solutions
 We tackle the challenge of data silos head-on, creating unified data environments that enable comprehensive analysis and decision-making. Our services include:
@@ -47,6 +39,19 @@ We offer workshops and consulting services aimed at fostering a data-driven cult
 
 ### Custom Data Tool Development
 We create bespoke data tools tailored to your specific needs, focusing on user-friendly interfaces and seamless integration with existing systems. Our development process prioritizes collaboration with end-users to ensure high adoption rates and maximum utility.
+
+<div class="card mb-4 shadow-sm">
+  <div class="card-body">
+    <h5 class="card-title">📈 Success Story: TripAdvisor</h5>
+    <p class="card-text">Automated query processes saving 103 hours monthly with 1095% ROI</p>
+    <div class="d-flex justify-content-between align-items-center">
+      <div class="btn-group">
+        <a href="/case-studies" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
+      </div>
+      <small class="text-muted">Implementation: 1 month</small>
+    </div>
+  </div>
+</div>
 
 Ready to elevate your data strategy? Contact us today!
 
@@ -71,4 +76,4 @@ _Pedro is a dedicated worker and an excellent team member, not only promptly car
 ### Kassem Hussein
 ![Senior Data Scientist](imgs/kassem.png "Senior Data Scientist")
 
-_During the time I worked with Pedro he was involved in 2 projects, one for automating DAGs in a Machine learning model and another for exploring new techniques to detecting anomalies. In both projects Pedro performed with great excellence and minimal supervision._
+_During the time I worked with Pedro he was involved in 2 projects, one for automating \[Airflow\] DAGs in a Machine learning model and another for exploring new techniques to detecting anomalies. In both projects Pedro performed with great excellence and minimal supervision._
