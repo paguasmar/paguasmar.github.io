@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+share-title: Data Pyramid | About
 ---
 ## Pedro Águas Marques {#about}
 ![Pedro Águas Marques profile picture](imgs/me.jpg){:height="280px"}
