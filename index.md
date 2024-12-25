@@ -2,7 +2,7 @@
 layout: home
 title: "Your Data, Our Expertise: Together We Innovate"
 subtitle: Airflow, PySpark, AWS
-share-title: Data Pyramid | Airflow, PySpark, AWS
+share-title: Data Waters | Airflow, PySpark, AWS
 ---
 
 ## Data Consulting Services Offered {#services}

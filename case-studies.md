@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Case Studies
-share-title: Data Pyramid | Case Studies
+share-title: Data Waters | Case Studies
 ---
 
 # How I Saved 103 Hours of Analyst Time per Month with a Simple Automation Solution
