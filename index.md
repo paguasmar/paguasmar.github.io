@@ -57,6 +57,31 @@ Ready to elevate your data strategy? Contact us today!
 
 [Contact Us](/contact){: .btn .btn-primary }
 
+
+<h2 class="text-center">Companies I've Worked With</h2>
+<div class="row justify-content-center align-items-center">
+  <div class="col-6 col-md-3 mb-4">
+    <div class="card h-100 border-0">
+      <img src="/imgs/vodafone.webp" class="card-img-top px-4 py-3" alt="Vodafone Logo">
+    </div>
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <div class="card h-100 border-0">
+      <img src="/imgs/tripadvisor.png" class="card-img-top px-4 py-3" alt="Tripadvisor Logo">
+    </div>
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <div class="card h-100 border-0">
+      <img src="/imgs/wellhub.png" class="card-img-top px-4 py-3" alt="Wellhub Logo">
+    </div>
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <div class="card h-100 border-0">
+      <img src="/imgs/carpe-data.webp" class="card-img-top px-4 py-3" alt="Carpe Data Logo">
+    </div>
+  </div>
+</div>
+
 ## Testimonials {#testimonials}
 ### Pedro Luis
 ![Tech Lead at Carpe Data](imgs/pedro_luis.png "Tech Lead Developer")
