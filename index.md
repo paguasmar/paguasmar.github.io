@@ -58,7 +58,8 @@ Ready to elevate your data strategy? Contact us today!
 [Contact Us](/contact){: .btn .btn-primary }
 
 
-<h2 class="text-center">Companies I've Worked With</h2>
+<h2 class="text-center mb-3">Professional Experience</h2>
+<p class="text-center text-muted mb-4">Organizations where I've held full-time positions</p>
 <div class="row justify-content-center align-items-center">
   <div class="col-6 col-md-3 mb-4">
     <div class="card h-100 border-0">
