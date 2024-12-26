@@ -1,10 +1,10 @@
 # Basic Site Settings
 remote_theme: daattali/beautiful-jekyll
-title: "Data Waters"
+title: "Pedro Marques Data Consulting"
 description: "Your Data, Our Expertise: Together We Innovate. We specialize in data pipeline optimization, advanced analytics, and fostering a data-driven culture. Discover tailored solutions that drive efficiency and maximize ROI for your business. Contact us today!"
 url: "https://paguasmar.github.io"
 author: "Pedro Águas Marques"
-avatar: "/imgs/logo.jpeg"
+#avatar: "/imgs/logo.jpeg"
 
 # Navbar Links
 navbar-links:
@@ -32,7 +32,7 @@ hover-col: "#0085A1"
 
 # SEO Related
 google_site_verification: Bn0CnJFS5PimjF6atbrryLrEqz6QvN8uzAtw2I1RSWI
-keywords: "Data Waters,Pedro Águas Marques,Data Consultancy,Data Pipeline Optimization,Advanced Analytics Solutions,Data Engineering Services,Machine Learning Integration,Cloud Data Solutions,ETL Process Automation,Data-Driven Culture Workshops,Business Intelligence Consulting,Custom Data Solutions"
+keywords: "Pedro Marques Data Consulting,Pedro Águas Marques,Data Consultancy,Data Pipeline Optimization,Advanced Analytics Solutions,Data Engineering Services,Machine Learning Integration,Cloud Data Solutions,ETL Process Automation,Data-Driven Culture Workshops,Business Intelligence Consulting,Custom Data Solutions"
 
 plugins:
   - jekyll-relative-links

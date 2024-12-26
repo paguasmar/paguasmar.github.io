@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-share-title: Data Waters | About
+share-title: Pedro Marques Data Consulting | About
 ---
 ## Pedro Águas Marques {#about}
 ![Pedro Águas Marques profile picture](imgs/me.jpg){:height="280px"}

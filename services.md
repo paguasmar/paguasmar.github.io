@@ -4,7 +4,7 @@
 
 Are you maximizing the value of your data assets?
 
-At Data Waters, we specialize in transforming data challenges into strategic advantages. Our expert team helps organizations navigate the complex data landscape, ensuring that technology, processes, and people work together effectively.
+At Pedro Marques Data Consulting, we specialize in transforming data challenges into strategic advantages. Our expert team helps organizations navigate the complex data landscape, ensuring that technology, processes, and people work together effectively.
 
 We offer a comprehensive suite of services designed to optimize data pipelines, implement advanced analytics, and foster a data-driven culture. Our solutions not only improve efficiency but also drive significant cost savings and innovation.
 Explore our core services below to discover how we can help you leverage your data for growth and success in 2024 and beyond.

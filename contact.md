@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-share-title: Data Waters | Contact Us
+share-title: Pedro Marques Data Consulting | Contact Us
 ---
 
 Does your organization need expert guidance in harnessing the power of data? We’re here to help! Whether you have a specific project in mind or are looking for ongoing support to foster a data-driven culture, our team is ready to assist. We specialize in optimizing data processes, implementing advanced analytics, and developing tailored solutions that drive business growth.
