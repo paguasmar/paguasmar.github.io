@@ -44,8 +44,8 @@ We create bespoke data tools tailored to your specific needs, focusing on user-f
   <div class="card-body">
     <h5 class="card-title">📈 Success Story: TripAdvisor</h5>
     <p class="card-text">Automated query processes saving 103 hours monthly with 1095% ROI</p>
-    <div class="d-flex justify-content-between align-items-center">
-      <div class="btn-group">
+     <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
+      <div class="btn-group mb-2 mb-sm-0">
         <a href="/case-studies/scheduled-query-tool" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
       </div>
       <small class="text-muted">Implementation: 1 month</small>
