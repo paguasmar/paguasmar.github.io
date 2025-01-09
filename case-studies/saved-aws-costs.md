@@ -36,7 +36,7 @@ The numbers were concerning: our staging AWS bill had spiked 55%. As the only en
 
 The AWS Cost Explorer on the staging account revealed three concerning patterns:
 
-![Stacked bar chart showing AWS costs breakdown by service from October to December. Total costs increased from $1,062 in October to $1,558 in December, a 55% increase. The chart shows four services: Idle MWAA (green), Idle SFTP (red), SecretManager API Requests (blue), and Other costs (grey). December shows significant increases in idle resources, with MWAA costing $130, SFTP $172, and SecretManager API requests spiking to $90, while base costs ('Other') remained relatively stable around $1,000 across all months.](/imgs/case-studies/saved-aws-costs/aws_services_cost_dist_by_month.png){:width="70%" .text-center}
+![Stacked bar chart showing AWS costs breakdown by service from October to December. Total costs increased from $1,062 in October to $1,558 in December, a 55% increase. The chart shows four services: Idle MWAA (green), Idle SFTP (red), SecretManager API Requests (blue), and Other costs (grey). December shows significant increases in idle resources, with MWAA costing $130, SFTP $172, and SecretManager API requests spiking to $90, while base costs ('Other') remained relatively stable around $1,000 across all months.](/imgs/case-studies/saved-aws-costs/aws_services_cost_dist_by_month.png)
 
 The chart showed partial-month costs:
 
