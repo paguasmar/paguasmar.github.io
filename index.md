@@ -46,7 +46,7 @@ We create bespoke data tools tailored to your specific needs, focusing on user-f
     <p class="card-text">Automated query processes saving 103 hours monthly with 1095% ROI</p>
     <div class="d-flex justify-content-between align-items-center">
       <div class="btn-group">
-        <a href="/case-studies" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
+        <a href="/case-studies/scheduled-query-tool" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
       </div>
       <small class="text-muted">Implementation: 1 month</small>
     </div>
