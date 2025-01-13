@@ -79,7 +79,9 @@ The numbers speak for themselves:
 - Implementation cost: $6,720.
 
 But the real victory was in the analysts' reactions: 
+
 "WOW this is awesome! Thank you!" - Analyst 
+
 "This looks great - thanks" - Analyst's Manager
 
 ## Key Learnings
