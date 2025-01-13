@@ -2,7 +2,7 @@
 layout: page
 title: "How I Saved $714/Month in AWS Costs in Just 8 Hours: A Data Engineering Story"
 subtitle: A Data Engineer's Guide to Turning 8 Hours into $8,568 Annual AWS Savings
-share-title: Pedro Marques Data Consulting | How I Saved 103 Hours of Analyst Time per Month
+share-title: Pedro Marques Data Consulting | How I Saved $714/Month in AWS Costs in Just 8 Hours
 ---
 
 [Pedro Marques](https://www.linkedin.com/in/paguasmar/)
