@@ -14,7 +14,7 @@ Are you maximizing the value of your data assets?
 We specialize in transforming data challenges into strategic advantages. Our expert team helps organizations navigate the complex data landscape, ensuring that technology, processes, and people work together effectively.
 
 We offer a comprehensive suite of services designed to optimize data pipelines, implement advanced analytics, and foster a data-driven culture. Our solutions not only improve efficiency but also drive significant cost savings and innovation.
-Explore our core services below to discover how we can help you leverage your data for growth and success in 2024 and beyond.
+Explore our core services below to discover how we can help you leverage your data for growth and success in {{ site.time | date: "%Y" }} and beyond.
 
 Feel free to [inquire about other services our team can offer to help maximize your data ROI.](/contact) We look forward to hearing from you!
 
