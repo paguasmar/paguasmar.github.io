@@ -1,9 +1,16 @@
 ---
 layout: page
-title: "How I Saved $714/Month in AWS Costs in Just 8 Hours: A Data Engineering Story"
+title: "AWS Cost Optimization: How a Data Engineer Cut $8.5K in Annual Costs (Case Study)"
 subtitle: A Data Engineer's Guide to Turning 8 Hours into $8,568 Annual AWS Savings
 share-title: Pedro Marques Data Consulting | How I Saved $714/Month in AWS Costs in Just 8 Hours
+description: "Learn how a Data Engineer reduced AWS costs by $8,568 Annual through Secret Manager optimization and resource management. Real-world case study with actionable steps for CTOs and Engineering Leaders."
+
 ---
+
+<!--
+Tags:
+#AWSOptimization #CloudCosts #DataEngineering #DevOps #CloudArchitecture
+-->
 
 [Pedro Marques](https://www.linkedin.com/in/paguasmar/)
 
@@ -30,7 +37,7 @@ That Slack message from my manager, accompanied by an article about cloud cost c
 The numbers were compelling: a 24,500% ROI achieved in just 8 hours of focused work, transforming $336 of engineering time into $8,568 of annual savings. But the real story isn't in the numbers - it's in how I got there.
 
 ![A popular meme showing a cartoon dog sitting at a table drinking coffee, surrounded by flames in a burning room. The dog is wearing a small hat and has a calm, slightly forced smile. Above the scene is text reading 'AWS costs increasing 55%' and below is the dog's famous quote 'This is fine.' The meme ironically portrays maintaining composure while ignoring an obviously dangerous situation, representing how teams sometimes overlook escalating cloud costs until they become a serious problem.](/imgs/case-studies/saved-aws-costs/meme_this_is_fine.jpg)
-## Following the Money Trail
+## AWS Cost Optimization Strategy
 
 The numbers were concerning: our staging AWS bill had spiked 55%. As the only engineer tasked with investigating this, I faced a delicate balance: find quick savings without disrupting our 37 analysts who relied on these systems daily.
 
@@ -59,13 +66,13 @@ Total projected monthly waste: $714
 
 The quick wins were clear:
 
-- **MWAA Test Environment ($215/month)**: A development environment cloned directly from the console, sitting idle for over a month. After confirming with the development team that it was no longer needed, I terminated it.
-- **SFTP Server ($223/month)**: A testing SFTP server with zero bytes transferred for over a month. Instead of letting it run continuously, I implemented a "create-test-delete" workflow with the development team.
+- **Amazon MWAA Test Environment ($215/month)**: A development environment cloned directly from the console, sitting idle for over a month. After confirming with the development team that it was no longer needed, I terminated it.
+- **AWS Transfer Family SFTP Server ($223/month)**: A testing SFTP server with zero bytes transferred for over a month. Instead of letting it run continuously, I implemented a "create-test-delete" workflow with the development team.
 
 But the real challenge lay in the Secret Manager API calls.
-### 2. Technical Optimization: Secret Manager Caching (39% of Savings)
+### 2. Secret Manager Cost Reduction Techniques (39% of Savings)
 
-The next step tackled a hidden cost problem: the systems were making too many Secret Manager API calls, which added up to $276/month ($138 in staging and $138 in production).
+The next step tackled a hidden cost problem: the systems were making too many AWS Secrets Manager API calls, which added up to $276/month ($138 in staging and $138 in production).
 
 The root cause? Airflow's default behavior:
 
@@ -93,11 +100,11 @@ Since the Tech Lead owned the platform code and was on vacation, I played it saf
 
 This wasn't just about the technical fix - it was about respecting team ownership and keeping our systems reliable. Sometimes the best technical solution isn't the best team solution.
 
-Do you want to discuss your AWS infrastructure optimization opportunities?
+Looking to optimize your AWS infrastructure costs? Book a free consultation to discuss your specific needs.
 
 [Contact Us](/contact){: .btn .btn-primary }
 
-## The Results
+## Cloud Cost Optimization Results
 
 ### Financial Results
 
@@ -116,7 +123,7 @@ Beyond cost savings, my optimization delivered performance benefits:
 - Improved Airflow scheduler efficiency
 - Better scalability for future workflows
 
-## Key Takeaways
+## Key Takeaways: AWS Infrastructure Optimization
 
 1. Early intervention is crucial - catching issues mid-month allowed the client to prevent full-month charges
 2. Direct communication with resource owners before any changes
