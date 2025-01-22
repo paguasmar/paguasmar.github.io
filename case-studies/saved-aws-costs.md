@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "AWS Cost Optimization: How a Data Engineer Cut $8.5K in Annual Costs (Case Study)"
+title: "AWS Cost Optimization: How I Saved $714/Month in AWS Costs in Just 8 Hours"
 subtitle: A Data Engineer's Guide to Turning 8 Hours into $8,568 Annual AWS Savings
-share-title: Pedro Marques Data Consulting | How I Saved $714/Month in AWS Costs in Just 8 Hours
+share-title: "Pedro Marques Data Consulting | AWS Cost Optimization: How I Saved $714/Month in AWS Costs in Just 8 Hours"
 description: "Learn how a Data Engineer reduced AWS costs by $8,568 Annual through Secret Manager optimization and resource management. Real-world case study with actionable steps for CTOs and Engineering Leaders."
 
 ---
