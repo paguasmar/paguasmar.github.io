@@ -26,7 +26,7 @@ Tags:
 - $714 monthly savings ($8,568/year)
 - 99.67% reduction in API calls
 - 10.4% faster system performance
-- 24,500% ROI
+- 2,450% ROI
 
 ---
 
@@ -34,7 +34,7 @@ Tags:
 
 That Slack message from my manager, accompanied by an article about cloud cost consciousness, kicked off what would become an interesting journey into AWS cost optimization. What started as a routine investigation would lead to not just significant cost savings ($714/month), but an unexpected performance breakthrough in our data platform.
 
-The numbers were compelling: a 24,500% ROI achieved in just 8 hours of focused work, transforming $336 of engineering time into $8,568 of annual savings. But the real story isn't in the numbers - it's in how I got there.
+The numbers were compelling: a 2,450% ROI achieved in just 8 hours of focused work, transforming $336 of engineering time into $8,568 of annual savings. But the real story isn't in the numbers - it's in how I got there.
 
 ![A popular meme showing a cartoon dog sitting at a table drinking coffee, surrounded by flames in a burning room. The dog is wearing a small hat and has a calm, slightly forced smile. Above the scene is text reading 'AWS costs increasing 55%' and below is the dog's famous quote 'This is fine.' The meme ironically portrays maintaining composure while ignoring an obviously dangerous situation, representing how teams sometimes overlook escalating cloud costs until they become a serious problem.](/imgs/case-studies/saved-aws-costs/meme_this_is_fine.jpg)
 ## AWS Cost Optimization Strategy
@@ -113,7 +113,7 @@ Looking to optimize your AWS infrastructure costs? Book a free consultation to d
     - Production environment: $138
 - Annual cost avoidance: $8,568
 - Implementation cost: $336 (8 hours)
-- ROI: 24,500%
+- ROI: 2,450%
 
 ### Unexpected Performance Improvements
 

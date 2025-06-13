@@ -20,7 +20,7 @@ share-title: Pedro Marques Data Consulting | Case Studies
 <div class="card mb-4 shadow-sm">
   <div class="card-body">
     <h5 class="card-title">How I Saved $714/Month in AWS Costs in Just 8 Hours: A Data Engineering Story</h5>
-    <p class="card-text">AWS cost optimization saving $8,568 per year with 24,500% ROI</p>
+    <p class="card-text">AWS cost optimization saving $8,568 per year with 2,450% ROI</p>
      <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
       <div class="btn-group mb-2 mb-sm-0">
         <a href="/case-studies/saved-aws-costs" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
