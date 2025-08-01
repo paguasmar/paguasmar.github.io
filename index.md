@@ -2,7 +2,7 @@
 layout: home
 title: "Your Data, Our Expertise: Together We Innovate"
 subtitle: Airflow, PySpark, AWS
-share-title: Pedro Marques Data Consulting | Airflow, PySpark, AWS
+share-title: Data Nautical | Airflow, PySpark, AWS
 ---
 
 ## Data Consulting Services Offered {#services}

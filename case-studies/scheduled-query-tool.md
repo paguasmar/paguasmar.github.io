@@ -2,7 +2,7 @@
 layout: page
 title: How I Saved 103 Hours of Analyst Time per Month with a Simple Automation Solution
 subtitle: Transforming Manual Query Runs into an Efficient Scheduled System
-share-title: Pedro Marques Data Consulting | How I Saved 103 Hours of Analyst Time per Month
+share-title: Data Nautical | How I Saved 103 Hours of Analyst Time per Month
 ---
 
 [Pedro Marques](https://www.linkedin.com/in/paguasmar/)

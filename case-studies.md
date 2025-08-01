@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Case Studies
-share-title: Pedro Marques Data Consulting | Case Studies
+share-title: Data Nautical | Case Studies
 ---
 
 <div class="card mb-4 shadow-sm">
