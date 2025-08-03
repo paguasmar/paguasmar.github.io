@@ -95,7 +95,7 @@ full-width: true
         <div class="card h-100 border-0 shadow">
           <div class="card-body">
             <p class="card-text text-muted">"Pedro consistently demonstrated a high level of motivation and a proactive attitude toward his responsibilities. His contributions to our internal tooling helped drive important outcomes for our team. He approaches tasks with enthusiasm and is eager to learn, which I believe will be beneficial as he continues to grow in his career."</p>
-            <p class="text-right font-italic text-muted">- Avi Herscovici<br>Manager @ TRIPADVISOR</p>
+            <p class="font-italic text-muted"><b class= "text-dark">Avi Herscovici</b><br>MANAGER @ TRIPADVISOR</p>
           </div>
         </div>
       </div>
@@ -103,7 +103,7 @@ full-width: true
         <div class="card h-100 border-0 shadow">
           <div class="card-body">
             <p class="card-text text-muted">"Working with Pedro has been a real pleasure. He was always there to help the team and was full of great ideas for improving our Airflow infrastructure. His genuine curiosity and eagerness to learn new technologies stand out, always bringing fresh perspectives and energy to the table."</p>
-            <p class="text-right font-italic text-muted">- William Custodio<br>LEAD ENGINEER @ TRIPADVISOR</p>
+            <p class="font-italic text-muted"><b class= "text-dark">William Custodio</b><br>LEAD ENGINEER @ TRIPADVISOR</p>
           </div>
         </div>
       </div>
@@ -114,7 +114,7 @@ full-width: true
 
 He always brought good ideas and genuinely cared about the job and colleges.
 Additionally Pedro was incredibly deadline-conscious, ensuring that all tasks within his control were completed promptly and efficiently."</p>
-            <p class="text-right font-italic text-muted">- Pedro Luís<br>LEAD ENGINEER @ CARPE DATA</p>
+            <p class="font-italic text-muted"><b class= "text-dark">Pedro Luís</b><br>LEAD ENGINEER @ CARPE DATA</p>
           </div>
         </div>
       </div>
