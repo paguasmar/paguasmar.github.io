@@ -87,7 +87,7 @@ full-width: true
   </div>
 </section>
 
-<section id="testimonials" class="py-5 bg-light text-center">
+<section id="testimonials" class="py-5 text-center">
   <div class="container">
     <h1 class="mb-5">Testimonials</h1>
     <div class="row">
