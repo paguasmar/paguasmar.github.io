@@ -103,7 +103,7 @@ full-width: true
         <div class="card h-100 border-0 shadow">
           <div class="card-body">
             <p class="card-text text-muted">"Working with Pedro has been a real pleasure. He was always there to help the team and was full of great ideas for improving our Airflow infrastructure. His genuine curiosity and eagerness to learn new technologies stand out, always bringing fresh perspectives and energy to the table."</p>
-            <p class="font-italic text-muted"><b class= "text-dark">William Custodio</b><br>LEAD ENGINEER @ TRIPADVISOR</p>
+            <p class="font-italic text-muted"><b class= "text-dark">William Custodio</b><br>LEAD ENGINEER @ PAGERDUTY</p>
           </div>
         </div>
       </div>
