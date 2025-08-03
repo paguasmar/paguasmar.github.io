@@ -5,13 +5,14 @@ description: "Your Data, Our Expertise: Together We Innovate. We specialize in d
 url: "https://datanautical.com"
 author: "Pedro Águas Marques"
 avatar: "/imgs/logo.png"
+# title-img: "/imgs/logo.png"
 
 # Navbar Links
 navbar-links:
   Home: "/"
   Case Studies: "/case-studies"
   About: "/about"
-  Services: "/#services"
+  Services: "/services"
   Contact Us: "/contact"
   Schedule a Call: "https://calendly.com/pm19/30min"
 
@@ -29,6 +30,11 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
+
+
+# Custom CSS
+site-css:
+  - "/assets/css/custom.css"
 
 # SEO Related
 google_site_verification: Bn0CnJFS5PimjF6atbrryLrEqz6QvN8uzAtw2I1RSWI

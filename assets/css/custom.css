@@ -1,0 +1,90 @@
+.card {
+  border-radius: 0.5rem; /* Softer corners to match image */
+}
+
+#hero {
+  color: #fff; /* White text for contrast */
+  padding: 100px 0; /* Adjust vertical padding */
+}
+.btn-primary {
+  background-color: #00bfff; /* Light blue from the image */
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #009acd; /* Darker blue on hover */
+}
+.slant {
+  z-index: 1; /* Ensure it's above content if needed */
+}
+@media (max-width: 768px) {
+  #hero h1 {
+    font-size: 2.5rem; /* Smaller heading on mobile */
+    padding: 8px 16px; /* Reduced padding for mobile */
+    border-width: 1px; /* Thinner border on small screens */
+  }
+  #hero {
+    padding: 50px 0;
+    filter: grayscale(40%); /* Slightly stronger on mobile for varying light conditions */
+  }
+}
+
+#cta {
+  background-color: #007bff; /* Bootstrap primary blue; adjust to #1e90ff for a brighter match if needed */
+}
+#cta h2 {
+  font-size: 2.5rem; /* Large heading */
+  font-weight: normal; /* Matches the image's lighter weight */
+}
+#cta p {
+  font-size: 1.25rem; /* Smaller subtext */
+  font-weight: normal;
+}
+#cta .btn-warning {
+  background-color: #ffc107; /* Yellow button */
+  border: none;
+  padding: 10px 20px; /* Comfortable size */
+  color: #000; /* Black text for contrast */
+}
+#cta .btn-warning:hover {
+  background-color: #e0a800; /* Darker yellow on hover */
+}
+@media (max-width: 768px) {
+  #cta h2 {
+    font-size: 2rem; /* Smaller heading on mobile */
+  }
+  #cta p {
+    font-size: 1rem;
+  }
+  #cta .btn {
+    width: 100%; /* Full-width button on small screens */
+  }
+}
+
+.client-logo {
+  transition: all 0.3s ease; /* Smooth hover transition */
+  cursor: pointer; /* Pointer cursor for interactivity */
+  max-height: 80px; /* Consistent height for logos */
+}
+.client-logo:hover {
+  transform: scale(1.1); /* Slight expansion on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+@media (max-width: 768px) {
+  #clients .row {
+    justify-content: center; /* Keep centered on mobile */
+  }
+  .client-logo {
+    max-height: 40px; /* Smaller logos on mobile */
+  }
+}
+
+.card-text {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.text-right {
+  text-align: right; /* Align name/title to right */
+}
+.font-italic {
+  font-style: italic; /* Italic for names */
+}
