@@ -24,7 +24,7 @@
   }
   #hero {
     padding: 50px 0;
-    filter: grayscale(40%); /* Slightly stronger on mobile for varying light conditions */
+    filter: grayscale(10%); /* Slightly stronger on mobile for varying light conditions */
   }
 }
 
