@@ -1,3 +1,9 @@
+/* Essential to make sure elements touch the edges of the screen */
+.col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .card {
   border-radius: 0.5rem; /* Softer corners to match image */
 }
