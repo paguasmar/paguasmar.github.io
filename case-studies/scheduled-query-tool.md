@@ -19,7 +19,7 @@ Picture this: 37 analysts, each running multiple queries daily, spending 10 minu
 2. Export results to CSV.
 3. Upload files to internal tools.
 
-The impact? Skilled analysts were spending 103 hours each month on routine tasks instead of working on important marketing campaigns that could generate hundreds of millions of dollars in revenue.
+The impact? Skilled analysts were spending 103 hours each month on routine tasks instead of working on important marketing campaigns worth $729 million (in 2024).
 
 ![Pedro Águas Marques profile picture](/imgs/case-studies/scheduled-query-tool/drake.png){:height="280px"}
 
