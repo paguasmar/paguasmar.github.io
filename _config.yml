@@ -11,7 +11,7 @@ avatar: "/imgs/logo.png"
 navbar-links:
   Home: "/"
   Case Studies: "/case-studies"
-  About: "/about"
+  About: "https://www.linkedin.com/in/paguasmar/"
   Services: "/services"
   Contact Us: "/contact"
   Schedule a Call: "https://calendly.com/pm19/30min"
