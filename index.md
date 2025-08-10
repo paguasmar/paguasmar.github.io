@@ -1,13 +1,13 @@
 ---
 layout: home
-share-title: Data Nautical | Airflow, PySpark, AWS
+share-title: Data Nautical | Strategic AI/ML Solutions for Scalable Impact
 full-width: true
 ---
 
 <section id="hero" class="jumbotron jumbotron-fluid text-center text-white mb-0" style="background-image: url('/imgs/hero-background.jpg'); background-size: cover; background-position: center; position: relative;">
   <div class="container py-5">
     <h3 class="display-3 font-weight-bold text-uppercase">Your Data, Our Expertise: Together We Innovate</h3>
-    <p class="lead font-weight-bold">Airflow, PySpark, AWS</p>
+    <p class="lead font-weight-bold">Strategic AI/ML Solutions for Scalable Impact</p>
     <a href="https://calendly.com/pm19/30min" class="btn btn-primary btn-lg text-uppercase">See How We Can Help!</a>
   </div>
   <!-- Slanted bottom edge -->
@@ -29,34 +29,29 @@ full-width: true
     <div class="col-lg-4 mb-4">
       <div class="card h-100 border-0 shadow">
         <div class="card-body">
-          <h3 class="card-title">Data Pipeline Optimization and Automation</h3>
-          <p class="card-text">We specialize in transforming manual, time-consuming data processes into efficient, automated pipelines. Our expertise lies in designing and implementing scalable solutions that significantly reduce operational costs and free up valuable analyst time. We leverage technologies like AWS, Snowflake, and Airflow to create robust, cloud-native data architectures that ensure optimal performance and data quality.</p>
-          <a href="/services#data-pipeline-optimization" class="btn btn-outline-primary">LEARN MORE</a>
+          <h3 class="card-title">MLOps Standardization and Implementation</h3>
+          <p class="card-text">Implement end-to-end MLOps frameworks for seamless ML deployment, including pipeline automation, versioning, and cross-vertical standardization using tools like Snowflake and Airflow. Customized for efficiency, adoption, and iterative scalability.</p>
+          <a href="/services#mlops-standardization-and-implementation" class="btn btn-outline-primary">LEARN MORE</a>
         </div>
       </div>
     </div>
     <div class="col-lg-4 mb-4">
       <div class="card h-100 border-0 shadow">
         <div class="card-body">
-          <h3 class="card-title">Data Integration and Accessibility Solutions</h3>
+          <h3 class="card-title">AI/ML Strategy and Governance Advisory</h3>
           <p class="card-text">
-            We tackle the challenge of data silos head-on, creating unified data environments that enable comprehensive analysis and decision-making. Our services include:
-            <ul>
-              <li>Design and implementation of ETL processes for large-scale data integration</li>
-              <li>Development of centralized data storage solutions</li>
-              <li>Implementation of data governance policies to ensure data integrity and accessibility</li>
-            </ul>
+            Guide C-level leaders with tailored AI maturity assessments, ethical governance frameworks, and strategic roadmaps to ensure compliant, scalable AI adoption and measurable business ROI. Customized for long-term innovation and risk mitigation.
           </p>
-          <a href="/services#data-integration-and-accessibility" class="btn btn-outline-primary">LEARN MORE</a>
+          <a href="/services#ai-ml-strategy-and-governance-advisory" class="btn btn-outline-primary">LEARN MORE</a>
         </div>
       </div>
     </div>
     <div class="col-lg-4 mb-4">
       <div class="card h-100 border-0 shadow">
         <div class="card-body">
-          <h3 class="card-title">Cost-Effective Cloud Data Infrastructure</h3>
-          <p class="card-text">Leveraging our deep expertise in cloud technologies, particularly AWS, we design and optimize cloud-based data processing solutions that scale with your business while keeping costs under control. Our track record includes achieving significant cost reductions in data pipeline execution.</p>
-          <a href="/services#cost-effective-cloud-data-infrastructure" class="btn btn-outline-primary">LEARN MORE</a>
+          <h3 class="card-title">Model Monitoring and Drift Detection Services</h3>
+          <p class="card-text">Deploy proactive monitoring with drift detection, alerts, and performance tracking via Snowflake ML to prevent model degradation. Customized setups ensure reliable outcomes, with ongoing maintenance for sustained AI health.</p>
+          <a href="/services#model-monitoring-and-drift-detection-services" class="btn btn-outline-primary">LEARN MORE</a>
         </div>
       </div>
     </div>
