@@ -58,6 +58,21 @@ full-width: true
   </div>
 </div>
 
+<div class="container my-5">
+  <div class="card mb-4 shadow-sm">
+    <div class="card-body">
+      <h5 class="card-title">📈 Success Story: TripAdvisor</h5>
+      <p class="card-text">Automated +$100M query processes saving 103 hours monthly</p>
+      <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
+        <div class="btn-group mb-2 mb-sm-0">
+          <a href="/case-studies/scheduled-query-tool" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
+        </div>
+        <small class="text-muted">Implementation: 1 month</small>
+      </div>
+    </div>
+  </div>
+</div>
+
 <section id="clients" class="py-5 bg-light text-center">
   <div class="container">
     <h1 class="mb-3">Professional Experience</h1>
