@@ -3,9 +3,10 @@ remote_theme: daattali/beautiful-jekyll
 title: "DATA NAUTICAL"
 description: "Your Data, Our Expertise: Together We Innovate. We specialize in data pipeline optimization, advanced analytics, and fostering a data-driven culture. Discover tailored solutions that drive efficiency and maximize ROI for your business. Contact us today!"
 url: "https://datanautical.com"
-author: "Pedro Águas Marques"
+author: "Data Nautical"
 avatar: "/imgs/logo.png"
 #title-img: "/imgs/title_img_data_nautical.png"
+#url-pretty: "DataNautical.com"
 
 # Navbar Links
 navbar-links:
