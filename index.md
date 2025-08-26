@@ -120,7 +120,7 @@ full-width: true
       <div class="col-md-4 mb-4">
         <div class="card h-100 border-0 shadow">
           <div class="card-body">
-            <p class="font-italic card-text text-muted">"Pedro Aguas was a key contact for Airflow and significantly improved automation and efficiency across products. He consistently delivered on time and brought thoughtful ideas to the team."</p>
+            <p class="font-italic card-text text-muted">"Pedro Aguas was a key contact for Airflow and heavily impacted the automation and efficiency across products. He was incredibly deadline-conscious and brought good ideas to the team."</p>
             <p class="text-muted"><b class= "text-dark">Pedro Luís</b><br>LEAD ENGINEER @ CARPE DATA</p>
           </div>
         </div>
