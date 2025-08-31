@@ -61,13 +61,13 @@ full-width: true
 <div class="container my-5">
   <div class="card mb-4 shadow-sm">
     <div class="card-body">
-      <h5 class="card-title">📈 Success Story: TripAdvisor</h5>
-      <p class="card-text">Automated +$100M query processes saving 103 hours monthly</p>
+      <h5 class="card-title">📈 Success Story: Unit4</h5>
+      <p class="card-text">MLOps cut model run time by 93% and saved $1.8M in ARR</p>
       <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
         <div class="btn-group mb-2 mb-sm-0">
-          <a href="/case-studies/scheduled-query-tool" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
+          <a href="/case-studies/cut-model-time" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
         </div>
-        <small class="text-muted">Implementation: 1 month</small>
+        <small class="text-muted">Implementation: 3 month</small>
       </div>
     </div>
   </div>
