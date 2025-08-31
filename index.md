@@ -62,7 +62,7 @@ full-width: true
   <div class="card mb-4 shadow-sm">
     <div class="card-body">
       <h5 class="card-title">📈 Success Story: Unit4</h5>
-      <p class="card-text">MLOps cut model run time by 93% and saved $1.8M in ARR</p>
+      <p class="card-text">MLOps cut model training time by 93% and saved $1.8M in ARR</p>
       <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
         <div class="btn-group mb-2 mb-sm-0">
           <a href="/case-studies/cut-model-time" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
