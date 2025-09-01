@@ -18,7 +18,7 @@ Tags:
 
 **Solution**:
 - Remove low value features
-- Parallelized training fits.
+- Parallelized training processes.
 - Balance positive and negative weights.
 
 **Impact**:
