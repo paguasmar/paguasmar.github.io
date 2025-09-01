@@ -44,8 +44,6 @@ That was a real data scientist workflow....minus the pub part.
 
 The impact? Skilled data scientists were spending an entire day training a model instead of focusing on strategic revenue protection.
 
-![A meme featuring the "Distracted Boyfriend" template. A man labeled "SaaS Company" turns away from a woman labeled "Old Slow Model" to look at another woman labeled "Optimized MLOps Model" walking by. The caption reads: "Turning from 5-hour training to 20 minutes." The background is a simple outdoor setting, with the man showing interest in the new model while the old model looks frustrated.](/imgs/case-studies/cut-model-time/meme_distracted_boyfriend.jpg){:height="280px"}
-
 At the start of the project, the Lead Data Scientist's sudden departure forced me to pivot from pure infrastructure work to a 70/30 split—70% on manual model maintenance. With only 30% of my time available for MLOps initiatives, I prioritized these high-impact optimizations to deliver quick wins and long-term scalability.
 
 ## The Three-Part Time-Cutting Strategy
