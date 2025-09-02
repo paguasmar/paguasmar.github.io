@@ -67,7 +67,7 @@ full-width: true
         <div class="btn-group mb-2 mb-sm-0">
           <a href="/case-studies/cut-model-time" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
         </div>
-        <small class="text-muted">Implementation: 3 month</small>
+        <small class="text-muted">Implementation: 1 month</small>
       </div>
     </div>
   </div>
