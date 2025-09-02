@@ -68,7 +68,7 @@ model = sw_xgb.XGBClassifier(random_state=42, scale_pos_weight=num_not_churned/n
 ```
 
 ### 3. Parallelised Training Processes (↓30%)
-I tested parallelisation locally using scikit-learn [`n_jobs=-1`](https://scikit-learn.org/stable/computing/parallelism.html) in XGBoost, reducing time by 95%. But in Snowflake? Zero improvement. After further researching [running concurrent tasks with worker processes](https://docs.snowflake.com/en/developer-guide/stored-procedure/python/procedure-python-examples) on Snowflake, I discovered joblib’s parallel_backend with loky. But when I implemented it? Zero improvement. Almost giving up, I tried using threading instead. After implementing it, training time was reduced by 30% (1h46min to 20min). Suddenly, we could run 20 experiments daily, which could significantly improve churn prediction precision over time.
+I tested parallelisation locally using scikit-learn [`n_jobs=-1`](https://scikit-learn.org/stable/computing/parallelism.html) in XGBoost, reducing time by 95%. Due to governance concerns, I couldn’t run the model locally. It had to run on Snowflake instead. But when I ran it on Snowflake? Zero improvement. After further researching [running concurrent tasks with worker processes](https://docs.snowflake.com/en/developer-guide/stored-procedure/python/procedure-python-examples) on Snowflake, I discovered joblib’s parallel_backend with loky. But when I implemented it? Zero improvement. Almost giving up, I tried using threading instead. After implementing it, training time was reduced by 30% (1h46min to 20min). Suddenly, we could run 20 experiments daily, which could significantly improve churn prediction precision over time.
 
 ```python
 from joblib import parallel_backend
