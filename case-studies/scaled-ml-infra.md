@@ -60,11 +60,11 @@ To address the manual bottlenecks and trust issues, I designed and implemented a
   displayName: "Validation"
   jobs:
     - job: Validation
-        steps:
-            - bash: |
-                conda activate churn_prediction
-                python -m pytest tests/validation -vv --junitxml=validation_test_results.xml --val-model-version=$val_model_version --prev-month-preds=$prev_month_preds --curr-month-preds=$curr_month_preds
-            displayName: 'Run Validation Tests'
+      steps:
+        - bash: |
+            conda activate churn_prediction
+            python -m pytest tests/validation -vv --junitxml=validation_test_results.xml --val-model-version=$val_model_version --prev-month-preds=$prev_month_preds --curr-month-preds=$curr_month_preds
+          displayName: 'Run Validation Tests'
 ```
     
 2. **Branching Strategy for Controlled Promotion and Scalability**: Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments and support multiple models:
@@ -77,8 +77,6 @@ To address the manual bottlenecks and trust issues, I designed and implemented a
     - PR gates: Minimum 1 reviewer for dev → prod and prod → main merges.
     - Release pipeline gates: Manual approval to deploy to the prod environment - ensuring no unvetted models reach production.
 
-[Contact Us](/contact){: .btn .btn-primary }
-
 ### Overcoming Permissions Bottlenecks
 
 What started as a straightforward infrastructure setup turned into a frustrating delay: the team responsible for granting Azure DevOps and Snowflake permissions was overwhelmed with projects, leaving my requests unanswered for over a month. This stalled the CI/CD rollout twice, threatening deadlines.
@@ -86,6 +84,8 @@ What started as a straightforward infrastructure setup turned into a frustrating
 I escalated to my manager, who intervened to prioritize the request. Within days, permissions were granted, allowing me to complete the pipeline in record time.
 
 Navigating permissions hurdles in your MLOps setup? Contact us for streamlined solutions!
+
+[Contact Us](/contact){: .btn .btn-primary }
 
 ### Building Trust Through Cross-Team Debugging
 
@@ -97,9 +97,7 @@ Facing integration challenges in your ML pipelines? Reach out to our consultancy
 
 This setup required minimal code changes (e.g., env var handling for secrets) and leverages Snowflake tasks for monthly refreshes automation, reducing risks while scaling efficiently for additional models. Dealing with ML deployment challenges? Contact us for tailored MLOps solutions!
 
-This setup required minimal code changes (e.g., env var handling for secrets) and leverages Snowflake tasks for monthly refreshes automation, reducing risks while scaling efficiently for additional models.
-
-Dealing with ML deployment challenges? Contact us for tailored MLOps solutions!
+This setup required minimal code changes and leverages Snowflake tasks for monthly refreshes automation, reducing risks while scaling efficiently for additional models.
 
 ## The Results: From Chaos to Confidence
 
