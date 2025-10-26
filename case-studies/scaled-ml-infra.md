@@ -74,6 +74,7 @@ Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments
 - **Feat to Dev**: Auto-deploys to dev Snowflake schema after push/merge and successful CI/CD, enabling quick iteration for any model.
 - **Dev to Prod**: Requires PR merge with 1 approver, triggering manual release pipeline for promotion to prod environment, reusable across teams.
 - **Prod to Main**: Final PR merge (1 approver) archives as immutable record for rollback, applicable to all models.
+
 ### 3. Approval Gates for Safety
 Enforced via Azure DevOps policies and environments:
     
