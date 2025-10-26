@@ -46,7 +46,8 @@ The impact? One incident eroded trust, with 9-day fixes jeopardizing $1.9M month
 
 To address the manual bottlenecks and trust issues, I designed and implemented a complete CI/CD pipeline in just one week, tailored for a solo developer while enabling scalability to 3+ models. Built on Azure DevOps for orchestration and Snowflake for ML operations, it ensures reproducible results via data snapshots and business rule checks. Here's how it works in three key phases:
 
-1. **Core Pipeline Stages for Automation**: Integrated ML-specific stages into Azure DevOps YAML for end-to-end efficiency:
+### 1. Core Pipeline Stages for Automation
+Integrated ML-specific stages into Azure DevOps YAML for end-to-end efficiency:
     
     - **Tests (Unit & Integration)**: Automated pytest runs for code functionality and input/output checks, catching errors early.
     - **Build & Train**: Packages the XGBoost model code and automates training/registration in Snowflake's Model Registry.
@@ -67,12 +68,14 @@ To address the manual bottlenecks and trust issues, I designed and implemented a
           displayName: 'Run Validation Tests'
 ```
     
-2. **Branching Strategy for Controlled Promotion and Scalability**: Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments and support multiple models:
+### 2. Branching Strategy for Controlled Promotion and Scalability
+Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments and support multiple models:
 
 	- **Feat to Dev**: Auto-deploys to dev Snowflake schema after push/merge and successful CI/CD, enabling quick iteration for any model.
 	- **Dev to Prod**: Requires PR merge with 1 approver, triggering manual release pipeline for promotion to prod environment, reusable across teams.
 	- **Prod to Main**: Final PR merge (1 approver) archives as immutable record for rollback, applicable to all models.
-3. **Approval Gates for Safety**: Enforced via Azure DevOps policies and environments:
+### 3. Approval Gates for Safety
+Enforced via Azure DevOps policies and environments:
     
     - PR gates: Minimum 1 reviewer for dev → prod and prod → main merges.
     - Release pipeline gates: Manual approval to deploy to the prod environment - ensuring no unvetted models reach production.
