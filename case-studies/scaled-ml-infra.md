@@ -48,13 +48,13 @@ To address the manual bottlenecks and trust issues, I designed and implemented a
 
 ### 1. Core Pipeline Stages for Automation
 Integrated ML-specific stages into Azure DevOps YAML for end-to-end efficiency:
+
+- **Tests (Unit & Integration)**: Automated pytest runs for code functionality and input/output checks, catching errors early.
+- **Build & Train**: Packages the XGBoost model code and automates training/registration in Snowflake's Model Registry.
+- **Validation**: Runs business rules like overlap ratio checks against prior predictions, failing the pipeline if thresholds aren't met - eliminating manual Excel work.
+- **Deploy**: Deploys to the target environment (dev or prod) only if all prior stages pass.
     
-    - **Tests (Unit & Integration)**: Automated pytest runs for code functionality and input/output checks, catching errors early.
-    - **Build & Train**: Packages the XGBoost model code and automates training/registration in Snowflake's Model Registry.
-    - **Validation**: Runs business rules like overlap ratio checks against prior predictions, failing the pipeline if thresholds aren't met - eliminating manual Excel work.
-    - **Deploy**: Deploys to the target environment (dev or prod) only if all prior stages pass.
-    
-    Example YAML snippet for the Validation stage:
+Example YAML snippet for the Validation stage:
     
 ```yaml
 - stage: Validation
@@ -71,14 +71,14 @@ Integrated ML-specific stages into Azure DevOps YAML for end-to-end efficiency:
 ### 2. Branching Strategy for Controlled Promotion and Scalability
 Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments and support multiple models:
 
-	- **Feat to Dev**: Auto-deploys to dev Snowflake schema after push/merge and successful CI/CD, enabling quick iteration for any model.
-	- **Dev to Prod**: Requires PR merge with 1 approver, triggering manual release pipeline for promotion to prod environment, reusable across teams.
-	- **Prod to Main**: Final PR merge (1 approver) archives as immutable record for rollback, applicable to all models.
+- **Feat to Dev**: Auto-deploys to dev Snowflake schema after push/merge and successful CI/CD, enabling quick iteration for any model.
+- **Dev to Prod**: Requires PR merge with 1 approver, triggering manual release pipeline for promotion to prod environment, reusable across teams.
+- **Prod to Main**: Final PR merge (1 approver) archives as immutable record for rollback, applicable to all models.
 ### 3. Approval Gates for Safety
 Enforced via Azure DevOps policies and environments:
     
-    - PR gates: Minimum 1 reviewer for dev → prod and prod → main merges.
-    - Release pipeline gates: Manual approval to deploy to the prod environment - ensuring no unvetted models reach production.
+- PR gates: Minimum 1 reviewer for dev → prod and prod → main merges.
+- Release pipeline gates: Manual approval to deploy to the prod environment - ensuring no unvetted models reach production.
 
 ### Overcoming Permissions Bottlenecks
 
