@@ -44,7 +44,7 @@ The impact? One incident eroded trust, with 9-day fixes jeopardizing $1.9M month
 
 ![](/imgs/case-studies/scaled-ml-infra/architecture_cicd.jpg)
 
-To address the manual bottlenecks and trust issues, I designed and implemented a complete CI/CD pipeline in just one week, tailored for a solo developer managing a lightweight 20MB dataset while enabling scalability to 3+ models. Built on Azure DevOps for orchestration and Snowflake for ML operations, it ensures reproducible results via data snapshots and business rule checks. Here's how it works in three key phases:
+To address the manual bottlenecks and trust issues, I designed and implemented a complete CI/CD pipeline in just one week, tailored for a solo developer while enabling scalability to 3+ models. Built on Azure DevOps for orchestration and Snowflake for ML operations, it ensures reproducible results via data snapshots and business rule checks. Here's how it works in three key phases:
 
 1. **Core Pipeline Stages for Automation**: Integrated ML-specific stages into Azure DevOps YAML for end-to-end efficiency:
     
