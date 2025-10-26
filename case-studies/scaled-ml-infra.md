@@ -59,16 +59,12 @@ To address the manual bottlenecks and trust issues, I designed and implemented a
 - stage: Validation
   displayName: "Validation"
   jobs:
-	- job: Validation
-	  steps:
-		- bash: |
-			cd CHURN_PREDICTION
-			conda activate churn_prediction
-			python -m pytest tests/validation -vv --junitxml=validation_test_results.xml --curr-model-version=V1_0_0 --val-model-version=DEV_A27AAED7_PEDRO_MARQUES --prev-month-preds=202507 --curr-month-preds=202508
-		  displayName: 'Run Validation Tests'
-		  env:
-			SNOWFLAKE_ACCOUNT: $(SNOWFLAKE_ACCOUNT)
-			# ... (other secrets passed explicitly)
+    - job: Validation
+        steps:
+            - bash: |
+                conda activate churn_prediction
+                python -m pytest tests/validation -vv --junitxml=validation_test_results.xml --val-model-version=$val_model_version --prev-month-preds=$prev_month_preds --curr-month-preds=$curr_month_preds
+            displayName: 'Run Validation Tests'
 ```
     
 2. **Branching Strategy for Controlled Promotion and Scalability**: Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments and support multiple models:
