@@ -38,7 +38,7 @@ That phrase from the Chief Data Officer kicked off what would become an interest
 ## The Problem: Trust-Eroding Deployment Process
 Imagine pushing a model update, only for manual business rules validation to reveal fatal flaws like zero overlap with prior predictions, leading to 100% rejections. Stakeholders wasted 30 minutes monthly on Excel overlap checks, while 2-3 week cycles delayed quarterly deploys.
 
-The impact? One incident eroded trust, with 9-day fixes jeopardizing 1.9M € monthly churn insights.
+The impact? One incident eroded trust, with 9-day fixes jeopardizing $1.9M monthly churn insights.
 
 ## The Solution: Automated MLOps Pipeline with Guardrails
 
@@ -112,7 +112,7 @@ The impact was immediate and measurable:
 ### Business Impact
 
 - Caught business rules issues pre-deployment, restoring stakeholder confidence and avoiding 9-day fixes.
-- Safeguarded 1.9M € monthly predictions.
+- Safeguarded $1.9M monthly predictions.
 - Reusable infrastructure scales to new teams, turning a solo effort into a company-wide asset.
 
 ## Key Learnings
