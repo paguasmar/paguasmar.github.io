@@ -28,7 +28,7 @@ Tags:
 When I joined the client, they were developing a churn prediction model to safeguard $1.9M in monthly recurring revenue. However, their deployment process was slow and error-prone, leading to trust issues among stakeholders. Here’s how a week’s project transformed my client team’s efficiency, scale and trust.
 
 ## The Problem: Months Long Deployment Process
-Imagine working on a model for multiple weeks, pushing a model update, only for manual business rules validations to halt deployment for months.
+Imagine working on a model for multiple weeks, pushing a model update, only for manual business rules validations to halt deployment for months. The process would not scale as the team had planned to add more models in the next quarter.
 
 The impact? Data scientists stuck on deployment instead of focusing on improving $1.9M monthly churn insights.
 
@@ -39,16 +39,15 @@ The impact? Data scientists stuck on deployment instead of focusing on improving
 To address the manual bottlenecks and trust issues, I designed and implemented a complete CI/CD pipeline in just one week, tailored for a solo developer while enabling scalability to 3+ models. It ensures compliance with business rules. Here's how it works in three key phases:
 
 ### 1. Automation
-Core Pipeline Stages:
+Core CI/CD Pipeline Stages:
 
 - **Tests (Unit & Integration)**: Automated pytest runs for code functionality and input/output checks, catching errors early.
-- **Build & Train**: Packages the model code and automates training/registration in Snowflake's Model Registry.
+- **Build & Train**: Packages the model code and automates training/registration in a Model Registry.
 - **Validation**: Runs business rules like, failing the pipeline if thresholds aren't met - eliminating manual business rules validations work. See Appendix A for YAML snippet.
 - **Deploy**: Deploys to dev environment only if all prior stages pass.
 
-Release Pipeline Stages:
-- **Approve to Deploy**: Manual approval gate to ensure only vetted models reach production.
-- **Build & Train**: Packages the model code and automates training/registration with proper versioning (explained in section 3).
+The Release Pipeline requires manual approval gate to ensure only vetted models reach production. Stages:
+- **Build & Train**: Packages the model code and automates training/registration with proper versioning (explained in Section 3).
 - **Validation**.
 - **Deploy**: Deploys to prod environment only if all prior stages pass.
     
@@ -57,7 +56,7 @@ Adopted a GitOps flow (feat/* → dev → prod → main) to isolate environments
 
 - **feat/* → dev**: Auto-deploys to dev environment after push/merge and successful CI/CD.
 - **dev → prod**: Requires PR merge with 1 approver, triggering manual release pipeline for promotion to prod environment.
-- **prod → main**: Final PR merge (1 approver) archives as immutable record for rollback.
+- **prod → main**: Final PR merge (1 approver) archives as immutable record for rollback. If there are issues in prod, there's an easy rollback.
 
 ### 3. Versioning
 Implemented semantic versioning (MAJOR.MINOR.PATCH) for models, ensuring clear tracking of changes and audits across environments. See Appendix B for examples.
@@ -66,7 +65,7 @@ Implemented semantic versioning (MAJOR.MINOR.PATCH) for models, ensuring clear t
 
 What started as a straightforward infrastructure setup turned into a frustrating delay: the team responsible for granting permissions was overwhelmed with projects, leaving my requests unanswered for over a month. This stalled the CI/CD rollout twice, threatening deadlines.
 
-I escalated to my manager, who intervened to prioritize the request. Within days, permissions were granted, allowing me to complete the pipeline in record time.
+I escalated to my manager, who intervened to prioritize the request. Within days, permissions were granted, allowing me to complete the pipeline in time.
 
 ### Building Trust Through Cross-Team Debugging
 
@@ -84,7 +83,7 @@ The documentation also records release date, feature changes, training window, m
 
 To ensure reproducibility and accelerate onboarding, I designed visual diagrams of the CI/CD pipeline, including validation logic, so engineers and stakeholders could understand the flow at a glance and adopt it consistently.
 
-I clarified ownership of the monthly refresh dashboard and documented the data sources, establishing accountability.
+I clarified ownership of the monthly refresh dashboard and documented the DE team data sources, establishing accountability.
 
 I established an experiment registry capturing hypotheses, results, and decisions. This prevented repeated mistakes, accelerated informed iteration, and created an auditable trail of model development choices.
 
@@ -95,14 +94,15 @@ The impact was immediate and measurable:
 | **Metric**                | **Before** | **After**                  |
 | ------------------------- | ---------- | -------------------------- |
 | Model Deployment Time     | Months     | Weeks                      |
-| Model governance          | Ad-hoc     | Owners + Auditable trail   |
-| Onboarding effort         | High       | Documented, visual, faster |
+| Model Governance          | Ad-hoc     | Owners + Auditable trail   |
+| Onboarding Effort         | High       | Documented, visual, faster |
+| Model Scalability         | 1 model    | 3+ models                  |
 
 ### Business Impact
 
 - Caught business rules issues pre-deployment, restoring stakeholder confidence.
 - Safeguarded $1.9M monthly predictions.
-- Reusable infrastructure scales to new teams, turning a solo effort into a company-wide asset.
+- Reusable infrastructure scales to new models.
 
 ## Key Learnings
 
