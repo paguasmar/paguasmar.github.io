@@ -7,7 +7,7 @@ share-title: Data Nautical | Case Studies
 <div class="card mb-4 shadow-sm">
   <div class="card-body">
     <h5 class="card-title">How I Scaled MLOps Infrastructure for 3 Models in One Week with CI/CD</h5>
-    <p class="card-text">Deploy in weeks instead of months and scale to 3+ models.</p>
+    <p class="card-text">Deploy models in weeks instead of months</p>
     <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center">
       <div class="btn-group mb-2 mb-sm-0">
         <a href="/case-studies/scaled-ml-infra" class="btn btn-sm btn-outline-primary">Read Case Study →</a>
