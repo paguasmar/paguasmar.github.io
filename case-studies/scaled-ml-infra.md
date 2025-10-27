@@ -83,7 +83,7 @@ The documentation also records release date, feature changes, training window, m
 
 To ensure reproducibility and accelerate onboarding, I designed visual diagrams of the CI/CD pipeline, including validation logic, so engineers and stakeholders could understand the flow at a glance and adopt it consistently.
 
-I clarified ownership of the monthly refresh dashboard and documented the DE team data sources, establishing accountability.
+I clarified ownership of the dashboard where the model predictions were shown and documented the DE team data sources, establishing accountability.
 
 I established an experiment registry capturing hypotheses, results, and decisions. This prevented repeated mistakes, accelerated informed iteration, and created an auditable trail of model development choices.
 
