@@ -15,13 +15,11 @@ Tags:
 
 ## TL;DR
 
-**Problem**: Months-long deploys due to manual business-rule checks and low trust
+**Problem**: Months-long deploys due to manual business-rule checks and low trust.
 
-**Solution**: 
-- One-week CI/CD with automated business-rule checks and gated promotion (feat/* → dev → prod → main).
+**Solution**: One-week CI/CD with automated business-rule checks and gated promotion (feat/* → dev → prod → main).
 
-**Impact**:
-- Deploy in weeks, scale to 3+ models, restore stakeholder confidence, protect $1.9M churn.
+**Impact**: Deploy in weeks, scale to 3+ models, restore stakeholder confidence, protect $1.9M churn.
 
 ---
 
