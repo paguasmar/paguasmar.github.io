@@ -152,7 +152,7 @@ How does your team handle ML validation?
 
 Built on Azure DevOps for orchestration (e.g., env var handling for secrets) and Snowflake for ML operations, leveraging Snowflake Model Registry for model versioning and deployment and Snowflake procedures and tasks for monthly refreshes automation.
 
-### Appendix D: Monitoring Notebook Month Example
+### Appendix D: Monitoring Notebook Monthly Output
 
 | **Feature**               | **Metric (PSI/JSD)** | **Status**                  |
 | ------------------------- | -------------------- | -------------------------- |
