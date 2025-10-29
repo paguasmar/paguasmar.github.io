@@ -75,6 +75,8 @@ This setup required minimal code changes, reducing risks while scaling efficient
 
 ### Governance & Collaboration
 
+I proactively added a monthly monitoring notebook that flags data drift (e.g., PSI metrics showing moderate/high drift in average scores over an historical period), helping us safeguard churn predictions without manual overhauls. See Appendix D for an example.
+
 I introduced documentation mapping every model version to its owner and documenting which versions were approved for production use. This eliminated ambiguity across teams and created a single source of truth for model governance.
 
 The documentation also records release date, feature changes, training window, model performance, training time, and release notes for each version.
@@ -149,3 +151,12 @@ How does your team handle ML validation?
 ### Appendix C: Tech Stack
 
 Built on Azure DevOps for orchestration (e.g., env var handling for secrets) and Snowflake for ML operations, leveraging Snowflake Model Registry for model versioning and deployment and Snowflake procedures and tasks for monthly refreshes automation.
+
+### Appendix D: Monitoring Notebook Month Example
+
+| **Feature**               | **Metric (PSI/JSD)** | **Status**                  |
+| ------------------------- | -------------------- | -------------------------- |
+| Feature 1                 | 0.0052               | ✅ STABLE                  |
+| Feature 2                 | 0.212                | ⚠️ MODERATE DRIFT          |
+| Feature 3                 | 0.322                | 🚨 HIGH DRIFT              |
+| ...                       | ...                  | ...                        |
