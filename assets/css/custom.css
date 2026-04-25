@@ -335,3 +335,13 @@ pre code {
   height: 24px;
   filter: drop-shadow(0 0 5px rgba(34, 211, 238, 0.4));
 }
+
+/* Mobile Responsive Adjustments */
+@media (max-width: 767.98px) {
+  .jumbotron .display-3 {
+    font-size: 2.5rem !important;
+  }
+  .jumbotron .lead {
+    font-size: 1.25rem !important;
+  }
+}

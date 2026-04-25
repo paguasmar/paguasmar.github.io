@@ -91,7 +91,7 @@ full-width: true
           <small class="text-muted"><i class="fas fa-clock mr-1"></i> Implementation: 1 month</small>
         </div>
       </div>
-      <div class="col-md-4 d-none d-md-block" style="background: linear-gradient(135deg, rgba(34, 211, 238, 0.1), rgba(59, 130, 246, 0.2)); display: flex !important; justify-content: center; align-items: center; border-radius: 0 1rem 1rem 0;">
+      <div class="col-md-4 d-none d-md-flex" style="background: linear-gradient(135deg, rgba(34, 211, 238, 0.1), rgba(59, 130, 246, 0.2)); justify-content: center; align-items: center; border-radius: 0 1rem 1rem 0;">
           <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" fill="var(--accent-blue)" class="bi bi-graph-up-arrow" viewBox="0 0 16 16" style="opacity: 0.8;">
             <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5Z"/>
           </svg>
